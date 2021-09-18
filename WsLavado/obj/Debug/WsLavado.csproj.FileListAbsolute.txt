@@ -1,0 +1,7 @@
+C:\Users\migue\source\repos\Solution1\WsLavado\bin\WsLavado.dll.config
+C:\Users\migue\source\repos\Solution1\WsLavado\bin\WsLavado.dll
+C:\Users\migue\source\repos\Solution1\WsLavado\bin\WsLavado.pdb
+C:\Users\migue\source\repos\Solution1\WsLavado\obj\Debug\WsLavado.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Solution1\WsLavado\obj\Debug\WsLavado.dll
+C:\Users\migue\source\repos\Solution1\WsLavado\obj\Debug\WsLavado.pdb
+C:\Users\migue\source\repos\Solution1\WsLavado\obj\Debug\WsLavado.csprojAssemblyReference.cache
